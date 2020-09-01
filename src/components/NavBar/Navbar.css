@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Satisfy&display=swap');
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  font-family: 'Handlee', cursive;
+  padding: .5rem;
+  font-size: 1.5rem;
+}
+
+nav a:hover {
+  background-color: rgba(250, 235, 215, .5);
+}
+
+nav a:visited {
+  color: black
+}
